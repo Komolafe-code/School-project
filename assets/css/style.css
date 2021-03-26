@@ -629,7 +629,7 @@ p {
     .navbar-area .navbar .navbar-toggler .toggler-icon {
       width: 30px;
       height: 2px;
-      background-color: #121212;
+      background-color: #c2c2c2;
       margin: 5px 0;
       display: block;
       position: relative;
@@ -660,7 +660,7 @@ p {
         top: 108%;
         left: 0;
         width: 100%;
-        background-color: #828282;
+        background-color: #4d70b1;
         z-index: 8;
         padding: 10px 16px;
         -webkit-box-shadow: 0 3px 6px 0 rgba(0, 0, 0, 0.16);
@@ -672,7 +672,9 @@ p {
         top: 108%;
         left: 0;
         width: 100%;
-        background-color: #828282;
+        background-color: #8282
+        
+        82;
         z-index: 8;
         padding: 10px 16px;
         -webkit-box-shadow: 0 3px 6px 0 rgba(0, 0, 0, 0.16);
