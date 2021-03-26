@@ -629,7 +629,7 @@ p {
     .navbar-area .navbar .navbar-toggler .toggler-icon {
       width: 30px;
       height: 2px;
-      background-color: #c2c2c2;
+      background-color: #e7e7e7;
       margin: 5px 0;
       display: block;
       position: relative;
@@ -660,7 +660,7 @@ p {
         top: 108%;
         left: 0;
         width: 100%;
-        background-color: #4d70b1;
+        background-color: #828282;
         z-index: 8;
         padding: 10px 16px;
         -webkit-box-shadow: 0 3px 6px 0 rgba(0, 0, 0, 0.16);
@@ -672,9 +672,7 @@ p {
         top: 108%;
         left: 0;
         width: 100%;
-        background-color: #8282
-        
-        82;
+        background-color: #828282;
         z-index: 8;
         padding: 10px 16px;
         -webkit-box-shadow: 0 3px 6px 0 rgba(0, 0, 0, 0.16);
@@ -695,7 +693,7 @@ p {
           line-height: 24px;
           font-weight: 700;
           padding: 11px 16px;
-          color: #505050;
+          color: #e7e7e7;
           text-transform: uppercase;
           position: relative;
           border-radius: 5px;
@@ -818,7 +816,7 @@ p {
           .navbar-area .navbar .navbar-nav .nav-item .sub-menu li {
             position: relative; }
             .navbar-area .navbar .navbar-nav .nav-item .sub-menu li .sub-nav-toggler {
-              color: #c2c2c2;
+              color: #e7e7e7;
               -webkit-transition: all 0.3s ease-out 0s;
               -moz-transition: all 0.3s ease-out 0s;
               -ms-transition: all 0.3s ease-out 0s;
@@ -828,7 +826,7 @@ p {
               display: block;
               padding: 8px 24px;
               position: relative;
-              color: #c2c2c2;
+              color: #e7e7e7;
               -webkit-transition: all 0.3s ease-out 0s;
               -moz-transition: all 0.3s ease-out 0s;
               -ms-transition: all 0.3s ease-out 0s;
@@ -956,29 +954,29 @@ p {
         .navbar-area.navbar-transparent .navbar .navbar-nav .nav-item a {
           color: #121212; } }
       .navbar-area.navbar-transparent .navbar .navbar-nav .nav-item a::before {
-        background-color: #5351fd; }
+        background-color: #e7e7e7; }
     .navbar-area.navbar-transparent .navbar .navbar-nav .nav-item.active a, .navbar-area.navbar-transparent .navbar .navbar-nav .nav-item:hover a {
-      color: #5351fd; }
+      color: #e7e7e7; }
     .navbar-area.navbar-transparent .navbar .navbar-btn .menu-bar {
       color: #505050; }
       .navbar-area.navbar-transparent .navbar .navbar-btn .menu-bar:hover {
-        color: #5351fd; }
+        color: #e7e7e7; }
     .navbar-area.navbar-transparent.sticky {
       background-color: #505050; }
       .navbar-area.navbar-transparent.sticky .navbar .navbar-toggler .toggler-icon {
-        background-color: #121212; }
+        background-color: #e7e7e7; }
       .navbar-area.navbar-transparent.sticky .navbar .navbar-nav .nav-item a {
         color: #121212; }
       .navbar-area.navbar-transparent.sticky .navbar .navbar-nav .nav-item.active a, .navbar-area.navbar-transparent.sticky .navbar .navbar-nav .nav-item:hover a {
-        color: #5351fd; }
+        color: #e7e7e7; }
       .navbar-area.navbar-transparent.sticky .navbar .navbar-btn .menu-bar {
         color: #121212; }
         .navbar-area.navbar-transparent.sticky .navbar .navbar-btn .menu-bar:hover {
-          color: #5351fd; }
+          color: #e7e7e7; }
   .navbar-area.navbar-transparent-2 {
     background: transparent; }
     .navbar-area.navbar-transparent-2 .navbar .navbar-toggler .toggler-icon {
-      background-color: #505050; }
+      background-color: #fff; }
     .navbar-area.navbar-transparent-2 .navbar .navbar-nav .nav-item a {
       color: #121212; }
       @media only screen and (min-width: 768px) and (max-width: 991px) {
