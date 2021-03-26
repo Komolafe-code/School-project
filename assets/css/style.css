@@ -816,7 +816,7 @@ p {
           .navbar-area .navbar .navbar-nav .nav-item .sub-menu li {
             position: relative; }
             .navbar-area .navbar .navbar-nav .nav-item .sub-menu li .sub-nav-toggler {
-              color: #121212;
+              color: #c2c2c2;
               -webkit-transition: all 0.3s ease-out 0s;
               -moz-transition: all 0.3s ease-out 0s;
               -ms-transition: all 0.3s ease-out 0s;
@@ -826,7 +826,7 @@ p {
               display: block;
               padding: 8px 24px;
               position: relative;
-              color: #121212;
+              color: #c2c2c2;
               -webkit-transition: all 0.3s ease-out 0s;
               -moz-transition: all 0.3s ease-out 0s;
               -ms-transition: all 0.3s ease-out 0s;
